@@ -10,3 +10,6 @@ url=https://github.com/ambrusthomas/MeDeR.git
 [submodule "org.eclipse.emf.refactor.examples"]
 	path = org.eclipse.emf.refactor.examples
 url=https://github.com/ambrusthomas/MeDeR.refactor.examples.git
+[submodule "MeDeR.refactor.examples"]
+	path = MeDeR.refactor.examples
+	url = https://github.com/ambrusthomas/MeDeR.refactor.examples.git
