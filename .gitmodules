@@ -1,0 +1,12 @@
+[submodule "org.eclipse.emf.refactor.metrics"]
+	path = org.eclipse.emf.refactor.metrics
+url=https://github.com/ambrusthomas/MeDeR.git
+[submodule "org.eclipse.emf.refactor.smells"]
+	path = org.eclipse.emf.refactor.smells
+url=https://github.com/ambrusthomas/MeDeR.git
+[submodule "org.eclipse.emf.refactor.refactoring"]
+	path = org.eclipse.emf.refactor.refactoring
+url=https://github.com/ambrusthomas/MeDeR.git
+[submodule "org.eclipse.emf.refactor.examples"]
+	path = org.eclipse.emf.refactor.examples
+url=https://github.com/ambrusthomas/MeDeR.refactor.examples.git
