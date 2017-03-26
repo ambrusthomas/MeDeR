@@ -15,7 +15,19 @@
          point="org.eclipse.ui.menus">
       <menuContribution
             allPopups="true"
-            locationURI="popup:org.eclipse.ui.popup.any?after=additions">
+            locationURI="popup:org.eclipse.gmf.runtime.diagram.ui.DiagramEditorContextMenu?after=filtersMenu">
+         <menu
+               id="org.eclipse.emf.refactor.runtime.menu"
+               label="EMF Quality Assurance (use existing techniques)">
+         </menu>
+         <menu
+               id="org.eclipse.emf.refactor.generator.menu"
+               label="EMF Quality Assurance (define new techniques)">
+         </menu>
+      </menuContribution>
+      <menuContribution
+            allPopups="true"
+            locationURI="popup:org.eclipse.papyrus.views.modelexplorer.modelexplorer.popup?after=tools">
          <menu
                id="org.eclipse.emf.refactor.runtime.menu"
                label="EMF Quality Assurance (use existing techniques)">
